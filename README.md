@@ -30,4 +30,8 @@
 
 `npx expo install expo-image-picker`
 
+`npx expo install react-native-gesture-handler` Biblioteca que ativa gestos nativos do dispositivo. [Link da documentação](https://docs.swmansion.com/react-native-gesture-handler/docs/gestures/tap-gesture)
+
+`npx expo install react-native-reanimated` Biblioteca que ativa animação. [Link da documentação](https://docs.swmansion.com/react-native-reanimated/docs/core/createAnimatedComponent/)
+
 *Sempre que for instalar uma nova biblioteca, pare o servidor de desenvolvimento e depois da instalação reinicie.*
