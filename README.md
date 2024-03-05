@@ -24,7 +24,7 @@
 
 ```npx expo install``` + nome da biblioteca
 
-######Exemplos: 
+###### Exemplos: 
 
 `npx expo install @expo/vector-icons`
 
